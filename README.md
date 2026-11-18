@@ -52,10 +52,10 @@ unchanged; verify with `git diff --exit-code -- dist`.
 Cloudflare Pages project: `bewieappsite`. GitHub source: `benoit/bewieappsite`,
 production branch `main`. Build command: empty. Output directory: `dist`.
 Custom domain: `bewie.atelierindustriel.be`. Subsequent pushes deploy automatically.
-The zone needs a CNAME record `bewie` pointing to `bewieappsite.pages.dev`
-(proxied, automatic TTL). Pages must show the custom domain as Active before
-using it as the live support/privacy destination. The production Pages address
-is https://bewieappsite.pages.dev while domain validation is pending.
+DNS is configured with a proxied CNAME record `bewie` pointing to
+`bewieappsite.pages.dev`, using automatic TTL. HTTPS and all 20 localized pages
+were verified on the custom hostname on 18 November 2026. The alternate Pages
+address is https://bewieappsite.pages.dev.
 
 Only `dist/` is published. Security headers restrict scripts and images to the same
 origin. No analytics, cookies, stored language preferences, account system, private
