@@ -54,7 +54,9 @@ production branch `main`. Build command: empty. Output directory: `dist`.
 Custom domain: `bewie.atelierindustriel.be`. Subsequent pushes deploy automatically.
 DNS is configured with a proxied CNAME record `bewie` pointing to
 `bewieappsite.pages.dev`, using automatic TTL. HTTPS and all 20 localized pages
-were verified on the custom hostname on 18 November 2026. The alternate Pages
+were verified on the custom hostname on 18 November 2026. Cloudflare confirms
+both domain verification and certificate validation are Active. Cached DNS
+lookups may need to expire after the first activation. The alternate Pages
 address is https://bewieappsite.pages.dev.
 
 Only `dist/` is published. Security headers restrict scripts and images to the same
