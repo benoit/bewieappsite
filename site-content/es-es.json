@@ -1,0 +1,77 @@
+{
+  "name": "Español (España)",
+  "support": "Asistencia",
+  "privacy": "Privacidad",
+  "language": "Idioma",
+  "skip": "Ir al contenido",
+  "nav": "Navegación principal",
+  "tag": "Every Room Is Borrowed · Bewie",
+  "title": "Nueve canciones. Nueve lugares.",
+  "intro": "El compañero digital del disco de vinilo. Explora Every Room Is Borrowed a través de nueve canciones y los lugares que las acompañan.",
+  "contact": "¿Necesitas ayuda?",
+  "contactText": "Si tienes alguna pregunta sobre Bewie, escríbenos. Indica la versión de la app, el modelo del dispositivo, la versión del sistema y el problema. Oculta los datos personales en las capturas de pantalla.",
+  "publisher": "Publicado por Benoit Cazenave.",
+  "listen": "Escucha y explora.",
+  "updated": "Actualizado el 18 de noviembre de 2026",
+  "policyIntro": "Esta política se aplica a Bewie y bewie.atelierindustriel.be, publicados por Benoit Cazenave. Para consultas sobre privacidad o solicitudes de eliminación, escribe a {contact}.",
+  "faq": [
+    [
+      "Elige una canción",
+      "Toca un marcador numerado. La música comienza y el mapa se desplaza hasta su lugar."
+    ],
+    [
+      "Abre el reproductor",
+      "Toca el marcador de la canción actual para abrir los controles. Si está lejos del centro, el mapa vuelve a él sin interrumpir la reproducción."
+    ],
+    [
+      "Sigue escuchando",
+      "Las canciones se reproducen en orden y el álbum se repite. Pausa, reanuda o cambia de canción en el reproductor. La letra aparece sobre el mapa mientras el reproductor está abierto."
+    ],
+    [
+      "Escucha sin conexión",
+      "Las canciones sin pérdida se descargan de Apple en segundo plano. Una vez descargadas, puedes escucharlas sin conexión. Los nuevos detalles del mapa necesitan Internet."
+    ],
+    [
+      "AirPlay",
+      "Usa el botón AirPlay del reproductor para elegir una salida de audio. También hay controles en la pantalla de bloqueo y el Centro de control."
+    ],
+    [
+      "Ubicación",
+      "El acceso a la ubicación es opcional. Centra el mapa al iniciar; sin una ubicación utilizable, Bewie se abre en Notre-Dame de París. Puedes cambiar el permiso en los ajustes del sistema."
+    ],
+    [
+      "Apple Watch",
+      "La app Watch incluye su propia música para escuchar sin conexión. Puedes elegir canciones y controlar la reproducción desde el reloj."
+    ],
+    [
+      "Compartir una canción",
+      "En Mensajes, elige una canción, añade una nota si quieres e inserta el vídeo en tu mensaje. Revisa el borrador antes de enviarlo."
+    ]
+  ],
+  "policy": [
+    [
+      "Reproductor público",
+      "No necesitas una cuenta. Bewie no incluye anuncios, seguimiento publicitario ni análisis de terceros añadidos por el editor. Tu historial de escucha no se envía al editor."
+    ],
+    [
+      "Música y servicios de Apple",
+      "La música sin pérdida se descarga mediante el servicio de distribución de recursos de Apple y se reproduce localmente. Mapas de Apple puede usar Internet. El App Store, TestFlight, los mapas y las descargas están sujetos a la política de privacidad de Apple. Apple puede compartir diagnósticos y comentarios de TestFlight según tus ajustes."
+    ],
+    [
+      "Ubicación opcional",
+      "Con tu permiso, Bewie utiliza tu ubicación para centrar el mapa al abrirse. Basta con una ubicación aproximada. Bewie no sigue tus movimientos en segundo plano, no conserva un historial de ubicaciones ni envía tus coordenadas al editor."
+    ],
+    [
+      "Compartir mediante Mensajes",
+      "Cuando decides compartir una canción, Bewie prepara el vídeo localmente y lo añade, junto con tu nota opcional, a un borrador en Mensajes. Tú eliges el destinatario y envías el mensaje. Esta función no transmite al editor el vídeo, la nota ni los datos del destinatario. La entrega depende de los servicios de Mensajes de Apple y de tus ajustes."
+    ],
+    [
+      "Datos locales y solicitudes de asistencia",
+      "Las descargas musicales y las preferencias de reproducción se guardan localmente en tu dispositivo y las gestiona el sistema operativo. Elimina la app para eliminar sus datos locales. Para solicitar la eliminación de los mensajes enviados a asistencia, escribe a {contact}. Bewie no crea cuentas de usuario ni registros de dispositivos con el editor."
+    ],
+    [
+      "Este sitio y la asistencia",
+      "El sitio no añade rastreadores publicitarios ni cookies de medición de audiencia. No se guarda ninguna preferencia de idioma. Cloudflare aloja el sitio y puede procesar datos técnicos de conexión. Las direcciones y mensajes enviados a asistencia se usan para responder a las consultas. Los servicios externos tienen sus propias políticas de privacidad."
+    ]
+  ]
+}

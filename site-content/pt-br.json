@@ -1,0 +1,77 @@
+{
+  "name": "Português (Brasil)",
+  "support": "Suporte",
+  "privacy": "Privacidade",
+  "language": "Idioma",
+  "skip": "Ir para o conteúdo",
+  "nav": "Navegação principal",
+  "tag": "Every Room Is Borrowed · Bewie",
+  "title": "Nove faixas. Nove lugares.",
+  "intro": "O companheiro digital do disco de vinil. Explore Every Room Is Borrowed por meio de nove faixas e dos lugares que as acompanham.",
+  "contact": "Precisa de ajuda?",
+  "contactText": "Para tirar dúvidas sobre o Bewie, escreva para nós. Informe a versão do app, o modelo do dispositivo, a versão do sistema e o problema. Oculte dados pessoais nas capturas de tela.",
+  "publisher": "Publicado por Benoit Cazenave.",
+  "listen": "Ouça e explore.",
+  "updated": "Atualizado em 18 de novembro de 2026",
+  "policyIntro": "Esta política abrange o Bewie e bewie.atelierindustriel.be, publicados por Benoit Cazenave. Para dúvidas sobre privacidade ou pedidos de exclusão: {contact}.",
+  "faq": [
+    [
+      "Escolha uma faixa",
+      "Toque em um marcador numerado. A música começa e o mapa vai até o local correspondente."
+    ],
+    [
+      "Abra o player",
+      "Toque no marcador da faixa atual para abrir os controles. Se ele estiver longe do centro, o mapa volta até ele sem interromper a reprodução."
+    ],
+    [
+      "Continue ouvindo",
+      "As faixas tocam em ordem e o álbum se repete. Pause, retome ou troque de faixa no player. As letras aparecem no mapa enquanto o player está aberto."
+    ],
+    [
+      "Ouça offline",
+      "As faixas sem perdas são baixadas da Apple em segundo plano. Depois de baixadas, podem ser ouvidas offline. Novos detalhes do mapa exigem internet."
+    ],
+    [
+      "AirPlay",
+      "Use o botão AirPlay do player para escolher uma saída de áudio. Os controles também estão na Tela Bloqueada e na Central de Controle."
+    ],
+    [
+      "Localização",
+      "O acesso à localização é opcional. Ele centraliza o mapa ao abrir o app; sem uma localização utilizável, o Bewie abre em Notre-Dame de Paris. Altere a permissão nos ajustes do sistema."
+    ],
+    [
+      "Apple Watch",
+      "O app Watch inclui suas próprias músicas para ouvir offline. Você pode escolher faixas e controlar a reprodução pelo relógio."
+    ],
+    [
+      "Compartilhar uma música",
+      "No Mensagens, escolha uma música, adicione uma nota se quiser e insira o vídeo na mensagem. Confira o rascunho antes de enviar."
+    ]
+  ],
+  "policy": [
+    [
+      "Player público",
+      "Não é necessário criar uma conta. O Bewie não inclui anúncios, rastreamento publicitário ou análise de terceiros adicionada pelo editor. Seu histórico de reprodução não é enviado ao editor."
+    ],
+    [
+      "Música e serviços Apple",
+      "A música sem perdas é baixada pelo serviço de distribuição de recursos da Apple e reproduzida localmente. O Mapas da Apple pode usar a internet. App Store, TestFlight, mapas e downloads seguem a política de privacidade da Apple. A Apple pode compartilhar diagnósticos e comentários do TestFlight conforme seus ajustes."
+    ],
+    [
+      "Localização opcional",
+      "Com sua permissão, o Bewie usa sua localização para centralizar o mapa ao iniciar. Uma localização aproximada é suficiente. O Bewie não acompanha deslocamentos em segundo plano, não mantém um histórico de localização nem envia suas coordenadas ao editor."
+    ],
+    [
+      "Compartilhar pelo Mensagens",
+      "Quando você escolhe compartilhar uma música, o Bewie prepara o vídeo localmente e o adiciona, com sua nota opcional, a um rascunho no Mensagens. Você escolhe o destinatário e envia a mensagem. Esse recurso não transmite ao editor o vídeo, a nota nem os dados do destinatário. A entrega depende dos serviços do Mensagens da Apple e dos seus ajustes."
+    ],
+    [
+      "Dados locais e solicitações de suporte",
+      "Os downloads de música e as preferências de reprodução ficam armazenados localmente no dispositivo e são gerenciados pelo sistema operacional. Remova o app para remover seus dados locais. Para solicitar a exclusão de mensagens enviadas ao suporte, entre em contato com {contact}. O Bewie não cria contas de usuário nem registros de dispositivos com o editor."
+    ],
+    [
+      "Site e suporte",
+      "O site não adiciona rastreadores publicitários nem cookies de medição de audiência. Nenhuma preferência de idioma é salva. A Cloudflare hospeda o site e pode processar dados técnicos de conexão. Endereços e mensagens enviados ao suporte são usados para atender às solicitações. Serviços externos têm suas próprias políticas de privacidade."
+    ]
+  ]
+}

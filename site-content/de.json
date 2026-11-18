@@ -1,0 +1,77 @@
+{
+  "name": "Deutsch",
+  "support": "Support",
+  "privacy": "Datenschutz",
+  "language": "Sprache",
+  "skip": "Zum Inhalt",
+  "nav": "Hauptnavigation",
+  "tag": "Every Room Is Borrowed · Bewie",
+  "title": "Neun Titel. Neun Orte.",
+  "intro": "Der digitale Begleiter zur Schallplatte. Entdecke Every Room Is Borrowed anhand von neun Titeln und den Orten, die sie begleiten.",
+  "contact": "Brauchst du Hilfe?",
+  "contactText": "Schreib uns bei Fragen zu Bewie. Nenne die App-Version, das Gerätemodell, die Systemversion und beschreibe das Problem. Verberge persönliche Daten auf Screenshots.",
+  "publisher": "Herausgegeben von Benoit Cazenave.",
+  "listen": "Hören und entdecken.",
+  "updated": "Aktualisiert am 18. November 2026",
+  "policyIntro": "Diese Datenschutzhinweise gelten für Bewie und bewie.atelierindustriel.be, herausgegeben von Benoit Cazenave. Bei Datenschutzfragen oder Löschanfragen: {contact}.",
+  "faq": [
+    [
+      "Titel wählen",
+      "Tippe auf eine nummerierte Markierung. Die Musik beginnt und die Karte bewegt sich zum zugehörigen Ort."
+    ],
+    [
+      "Player öffnen",
+      "Tippe auf die Markierung des aktuellen Titels, um die Steuerung zu öffnen. Liegt sie nicht in der Mitte, kehrt die Karte dorthin zurück, während die Musik weiterläuft."
+    ],
+    [
+      "Weiterhören",
+      "Die Titel laufen der Reihe nach, danach wiederholt sich das Album. Im Player kannst du pausieren, fortsetzen oder den Titel wechseln. Liedtexte erscheinen auf der Karte, solange der Player geöffnet ist."
+    ],
+    [
+      "Offline hören",
+      "Verlustfreie Titel werden im Hintergrund von Apple geladen. Danach lassen sie sich offline abspielen. Neue Kartendetails benötigen Internet."
+    ],
+    [
+      "AirPlay",
+      "Wähle mit der AirPlay-Taste im Player eine Audioausgabe. Die Steuerung ist auch auf dem Sperrbildschirm und im Kontrollzentrum verfügbar."
+    ],
+    [
+      "Standort",
+      "Der Standortzugriff ist freiwillig. Er zentriert die Karte beim Start; ohne nutzbaren Standort öffnet sich Bewie bei Notre-Dame in Paris. Die Berechtigung lässt sich in den Systemeinstellungen ändern."
+    ],
+    [
+      "Apple Watch",
+      "Die Watch-App enthält eigene Musik zum Offlinehören. Sie können Titel auswählen und die Wiedergabe auf Ihrer Uhr steuern."
+    ],
+    [
+      "Einen Titel teilen",
+      "Wählen Sie in Nachrichten einen Titel aus, fügen Sie auf Wunsch eine Notiz hinzu und setzen Sie das Video in Ihre Nachricht ein. Prüfen Sie den Entwurf vor dem Senden."
+    ]
+  ],
+  "policy": [
+    [
+      "Öffentlicher Player",
+      "Ein Konto ist nicht erforderlich. Bewie enthält keine Werbung, kein Werbetracking und keine vom Herausgeber eingebundene Drittanbieter-Analyse. Dein Hörverlauf wird nicht an den Herausgeber gesendet."
+    ],
+    [
+      "Musik und Apple-Dienste",
+      "Verlustfreie Musik wird über Apples Dienst zur Bereitstellung von Ressourcen geladen und lokal abgespielt. Apple Karten kann das Internet nutzen. Für App Store, TestFlight, Karten und Downloads gilt Apples Datenschutzrichtlinie. Apple kann je nach deinen Einstellungen Diagnosedaten und TestFlight-Feedback weitergeben."
+    ],
+    [
+      "Freiwilliger Standortzugriff",
+      "Mit Ihrer Erlaubnis verwendet Bewie Ihren Standort, um die Karte beim Start zu zentrieren. Ein ungefährer Standort genügt. Bewie verfolgt keine Bewegungen im Hintergrund, speichert keinen Standortverlauf und sendet Ihre Koordinaten nicht an den Herausgeber."
+    ],
+    [
+      "Teilen über Nachrichten",
+      "Wenn Sie einen Titel teilen möchten, bereitet Bewie das Video lokal vor und fügt es mit Ihrer optionalen Notiz einem Entwurf in Nachrichten hinzu. Sie wählen den Empfänger und senden die Nachricht selbst. Über diese Funktion erhält der Herausgeber weder Video noch Notiz oder Empfängerdaten. Für die Zustellung gelten die Nachrichtendienste von Apple und Ihre Einstellungen."
+    ],
+    [
+      "Lokale Daten und Supportanfragen",
+      "Musikdownloads und Wiedergabeeinstellungen werden lokal auf Ihrem Gerät gespeichert und vom Betriebssystem verwaltet. Wenn Sie die App entfernen, werden ihre lokalen App-Daten entfernt. Zur Löschung Ihrer Supportkorrespondenz wenden Sie sich an {contact}. Bewie hat beim Herausgeber weder Benutzerkonten noch Geräteregistrierungen."
+    ],
+    [
+      "Website und Support",
+      "Die Website setzt keine Werbetracker oder Cookies zur Reichweitenmessung ein. Eine Sprachpräferenz wird nicht gespeichert. Cloudflare hostet die Website und kann technische Verbindungsdaten verarbeiten. E-Mail-Adressen und Support-Nachrichten dienen der Bearbeitung von Anfragen. Externe Dienste haben eigene Datenschutzrichtlinien."
+    ]
+  ]
+}

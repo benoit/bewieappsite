@@ -1,0 +1,77 @@
+{
+  "name": "English (US)",
+  "support": "Support",
+  "privacy": "Privacy",
+  "language": "Language",
+  "skip": "Skip to content",
+  "nav": "Main navigation",
+  "tag": "Every Room Is Borrowed · Bewie",
+  "title": "Nine tracks. Nine places.",
+  "intro": "The digital companion to the vinyl record. Explore Every Room Is Borrowed through nine tracks and the places that accompany them.",
+  "contact": "Need a hand?",
+  "contactText": "For help with Bewie, email us. Include your app version, device model, system version and a description of the problem. Please hide personal information in screenshots.",
+  "publisher": "Published by Benoit Cazenave.",
+  "listen": "Listen and explore.",
+  "updated": "Updated November 18, 2026",
+  "policyIntro": "This policy covers Bewie and bewie.atelierindustriel.be, published by Benoit Cazenave. Contact {contact} for privacy questions or deletion requests.",
+  "faq": [
+    [
+      "Choose a track",
+      "Tap a numbered pin. The music starts and the map travels to its location."
+    ],
+    [
+      "Open the player",
+      "Tap the current track’s pin to open the controls. If it is away from the center, the map returns to it while playback continues."
+    ],
+    [
+      "Keep listening",
+      "Tracks play in order and the album repeats. Pause, resume or change tracks in the player. Lyrics appear on the map while the player is open."
+    ],
+    [
+      "Listen offline",
+      "Lossless tracks download from Apple in the background. Once downloaded, they play offline. New map details require an internet connection."
+    ],
+    [
+      "AirPlay",
+      "Use the AirPlay button in the player to select an audio output. Playback controls are also available on the Lock Screen and in Control Center."
+    ],
+    [
+      "Location",
+      "Location access is optional. It centers the map at launch; without a usable location, Bewie opens at Notre-Dame de Paris. Change permission in system settings."
+    ],
+    [
+      "Apple Watch",
+      "The Watch app includes its own music for offline listening. You can choose tracks and control playback on your watch."
+    ],
+    [
+      "Share a song",
+      "In Messages, select a song, optionally add a note and add the video to your message. Review the draft before sending."
+    ]
+  ],
+  "policy": [
+    [
+      "Public player",
+      "No account is required. Bewie has no ads, advertising tracking or third-party analytics added by the publisher. Your listening history is not sent to the publisher."
+    ],
+    [
+      "Music and Apple services",
+      "Lossless music is downloaded through Apple’s asset delivery service and played locally. Apple Maps may use the internet. App Store, TestFlight, maps and downloads are subject to Apple’s privacy policy. Apple may share diagnostics and TestFlight feedback according to your settings."
+    ],
+    [
+      "Optional location",
+      "With your permission, Bewie uses your location to center the map at launch. Approximate location is enough. Bewie does not track background movements, keep a location history or send your coordinates to the publisher."
+    ],
+    [
+      "Sharing through Messages",
+      "When you choose to share a song, Bewie prepares its video locally and adds it and your optional note to a Messages draft. You choose the recipient and send the message yourself. The publisher does not receive the video, note or recipient details through this feature. Apple’s Messages services and your settings govern delivery."
+    ],
+    [
+      "Local data and support requests",
+      "Music downloads and playback preferences are stored locally on your device and managed by the operating system. Remove the app to remove its local app data. To request deletion of correspondence you sent to support, contact {contact}. Bewie has no user account or device registration with the publisher."
+    ],
+    [
+      "This website and support",
+      "The site adds no advertising trackers or audience-measurement cookies. No language preference is stored. Cloudflare hosts the site and may process technical connection data. Email addresses and messages sent to support are used to handle requests. External services have their own privacy policies."
+    ]
+  ]
+}

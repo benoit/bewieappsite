@@ -1,0 +1,77 @@
+{
+  "name": "Français",
+  "support": "Assistance",
+  "privacy": "Confidentialité",
+  "language": "Langue",
+  "skip": "Aller au contenu",
+  "nav": "Navigation principale",
+  "tag": "Every Room Is Borrowed · Bewie",
+  "title": "Neuf morceaux. Neuf lieux.",
+  "intro": "Le compagnon numérique du disque vinyle. Explorez Every Room Is Borrowed à travers neuf morceaux et les lieux qui les accompagnent.",
+  "contact": "Besoin d’aide ?",
+  "contactText": "Pour toute question sur Bewie, écrivez-nous. Précisez la version de l’app, le modèle de l’appareil, la version du système et le problème rencontré. Masquez les informations personnelles sur les captures d’écran.",
+  "publisher": "Édité par Benoit Cazenave.",
+  "listen": "Écouter et explorer.",
+  "updated": "Mis à jour le 18 novembre 2026",
+  "policyIntro": "Cette politique concerne Bewie et bewie.atelierindustriel.be, édités par Benoit Cazenave. Pour toute question de confidentialité ou demande de suppression, contactez {contact}.",
+  "faq": [
+    [
+      "Choisir un morceau",
+      "Touchez un repère numéroté. La musique démarre et la carte rejoint son lieu."
+    ],
+    [
+      "Ouvrir le lecteur",
+      "Touchez le repère du morceau en cours pour ouvrir les commandes. S’il est éloigné du centre, la carte le rejoint sans interrompre la lecture."
+    ],
+    [
+      "Continuer l’album",
+      "Les morceaux s’enchaînent dans l’ordre et l’album recommence. Mettez en pause, reprenez ou changez de morceau dans le lecteur. Les paroles apparaissent sur la carte lorsque le lecteur est ouvert."
+    ],
+    [
+      "Écouter hors ligne",
+      "Les morceaux sans perte se téléchargent en arrière-plan depuis Apple. Une fois téléchargés, ils se lisent hors ligne. De nouveaux détails cartographiques nécessitent une connexion Internet."
+    ],
+    [
+      "AirPlay",
+      "Le bouton AirPlay du lecteur permet de choisir une sortie audio. Les commandes sont aussi disponibles sur l’écran verrouillé et dans le Centre de contrôle."
+    ],
+    [
+      "Localisation",
+      "La localisation est facultative. Elle centre la carte au lancement ; sans position exploitable, Bewie s’ouvre sur Notre-Dame de Paris. L’autorisation se modifie dans les réglages système."
+    ],
+    [
+      "Apple Watch",
+      "L’app Watch contient sa propre musique pour l’écoute hors ligne. Vous pouvez choisir les morceaux et commander la lecture depuis votre montre."
+    ],
+    [
+      "Partager un morceau",
+      "Dans Messages, choisissez un morceau, ajoutez éventuellement une note et insérez la vidéo dans votre message. Vérifiez le brouillon avant de l’envoyer."
+    ]
+  ],
+  "policy": [
+    [
+      "Lecteur public",
+      "Aucun compte n’est nécessaire. Bewie n’intègre ni publicité, ni suivi publicitaire, ni analyse d’audience tierce ajoutée par l’éditeur. Votre historique d’écoute n’est pas envoyé à l’éditeur."
+    ],
+    [
+      "Musique et services Apple",
+      "La musique sans perte est téléchargée via le service de distribution de ressources d’Apple et lue localement. Plans peut utiliser Internet. L’App Store, TestFlight, les cartes et les téléchargements relèvent de la politique de confidentialité d’Apple. Apple peut partager des diagnostics et des retours TestFlight selon vos réglages."
+    ],
+    [
+      "Localisation facultative",
+      "Avec votre accord, Bewie utilise votre position pour centrer la carte au lancement. Une position approximative suffit. Bewie ne suit pas vos déplacements en arrière-plan, ne conserve pas d’historique de localisation et n’envoie pas vos coordonnées à l’éditeur."
+    ],
+    [
+      "Partage dans Messages",
+      "Lorsque vous choisissez de partager un morceau, Bewie prépare sa vidéo localement et l’ajoute, avec votre éventuelle note, à un brouillon dans Messages. Vous choisissez le destinataire et envoyez vous-même le message. Cette fonction ne transmet à l’éditeur ni la vidéo, ni la note, ni les coordonnées du destinataire. Les services Messages d’Apple et vos réglages régissent l’envoi."
+    ],
+    [
+      "Données locales et demandes d’assistance",
+      "Les téléchargements musicaux et les préférences de lecture sont conservés sur votre appareil et gérés par le système. Supprimez l’app pour supprimer ses données locales. Pour demander la suppression d’échanges avec l’assistance, contactez {contact}. Bewie ne crée ni compte utilisateur ni inscription d’appareil auprès de l’éditeur."
+    ],
+    [
+      "Ce site et l’assistance",
+      "Le site n’ajoute ni traceur publicitaire ni cookie de mesure d’audience. Aucune préférence de langue n’est stockée. Cloudflare héberge le site et peut traiter des données techniques de connexion. Les adresses et messages envoyés à l’assistance servent à traiter les demandes. Les services externes ont leurs propres politiques de confidentialité."
+    ]
+  ]
+}
